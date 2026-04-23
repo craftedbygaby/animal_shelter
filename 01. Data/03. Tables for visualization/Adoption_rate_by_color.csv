@@ -1,0 +1,329 @@
+color,total_cats,adopted_cats,adoption_rate_pct
+Yellow/Cream,2,2,100.00
+Blue/Calico,1,1,100.00
+Gray/Calico,1,1,100.00
+Tortie/Tortie,4,4,100.00
+Tortie/Gold,1,1,100.00
+White/Silver,2,2,100.00
+Tortie/Gray,4,4,100.00
+"Gray Tabby/Tan",1,1,100.00
+"Cream Tiger/Brown Tabby",1,1,100.00
+"Agouti/Brown Tabby",2,2,100.00
+Black/Calico,1,1,100.00
+"Blue Tabby/Brown",2,2,100.00
+"Brown Tabby/Agouti",3,3,100.00
+Apricot,2,2,100.00
+"Silver/Silver Tabby",1,1,100.00
+"White/Calico Point",2,2,100.00
+"Black Tabby/Black Smoke",1,1,100.00
+"Silver Lynx Point/White",3,3,100.00
+"Brown Tabby/Liver",1,1,100.00
+Tricolor/Tortie,1,1,100.00
+"Silver Tabby/Black",1,1,100.00
+"Calico/Blue Cream",3,3,100.00
+"Gray Tabby/Orange",1,1,100.00
+"Torbie/Blue Cream",4,4,100.00
+"Chocolate Point/Cream",1,1,100.00
+"Black Tiger",2,2,100.00
+"Lynx Point/Blue",1,1,100.00
+"Brown Tabby/Silver",4,4,100.00
+"Lilac Point/Black",1,1,100.00
+"Blue Smoke/Gray",1,1,100.00
+"Tortie/Blue Tabby",1,1,100.00
+"Brown Tabby/Gold",1,1,100.00
+"Brown Tabby/Black Brindle",1,1,100.00
+White/Agouti,1,1,100.00
+"Cream Tabby/Cream Tabby",1,1,100.00
+"Blue Tabby/Tan",1,1,100.00
+"White/Black Smoke",2,2,100.00
+"Cream Tabby/Orange Tabby",1,1,100.00
+"Seal Point/Silver",1,1,100.00
+"Cream/Blue Point",2,2,100.00
+"Lynx Point/Tortie Point",4,4,100.00
+"Lynx Point/Gray",2,2,100.00
+"Red Tick",1,1,100.00
+Ruddy,1,1,100.00
+Agouti/Gold,1,1,100.00
+"Tortie Point/Blue",1,1,100.00
+Fawn/Gray,1,1,100.00
+"Brown/Seal Point",1,1,100.00
+"Tortie Point/Seal Point",1,1,100.00
+"Lynx Point/Blue Point",1,1,100.00
+"Orange Tabby/Tan",1,1,100.00
+Sable,1,1,100.00
+"Brown Tabby/Tortie",6,5,83.33
+White/Tricolor,5,4,80.00
+Torbie/Orange,5,4,80.00
+"Brown Tabby/Cream",9,7,77.78
+"Blue Point/White",25,19,76.00
+White/Chocolate,4,3,75.00
+"Tortie/Blue Cream",16,12,75.00
+Calico/Gray,4,3,75.00
+"Black Smoke/Black Tabby",8,6,75.00
+"Blue Tabby/Black",4,3,75.00
+"White/Silver Tabby",8,6,75.00
+"Chocolate/Black Smoke",4,3,75.00
+"Orange Tabby/Orange",4,3,75.00
+"Blue Tabby/Cream",10,7,70.00
+"Calico Point/White",10,7,70.00
+"Blue Smoke",18,12,66.67
+Agouti,21,14,66.67
+"White/Flame Point",3,2,66.67
+Black/Silver,3,2,66.67
+"Brown Tabby/Calico",3,2,66.67
+"White/Tortie Point",3,2,66.67
+Agouti/White,3,2,66.67
+Chocolate/White,9,6,66.67
+"Orange Tiger",6,4,66.67
+Blue/Orange,3,2,66.67
+Torbie/Black,3,2,66.67
+Blue/Tortie,6,4,66.67
+"Orange Tabby/Cream",6,4,66.67
+"Tortie Point/White",14,9,64.29
+"Black Smoke",226,144,63.72
+"Tortie Point",183,115,62.84
+"Calico/Brown Tabby",16,10,62.50
+"White/Seal Point",8,5,62.50
+"Seal Point/White",93,58,62.37
+"Blue Tabby/White",1285,800,62.26
+"White/Black Tabby",18,11,61.11
+Calico/White,226,138,61.06
+Torbie/White,431,262,60.79
+"Cream Tabby/White",577,347,60.14
+"Brown Tabby/Orange",15,9,60.00
+"Black/Black Smoke",5,3,60.00
+"White/Brown Brindle",5,3,60.00
+"Silver Tabby/White",52,31,59.62
+"Black Smoke/White",52,31,59.62
+"Flame Point",444,262,59.01
+White/Calico,41,24,58.54
+"White/Blue Tabby",132,77,58.33
+"White/Orange Tabby",264,154,58.33
+Tortie/White,162,94,58.02
+"Chocolate Point/White",19,11,57.89
+"Lynx Point",905,522,57.68
+Torbie,2156,1242,57.61
+Blue/Blue,7,4,57.14
+"Orange Tabby/White",2573,1458,56.67
+"Lynx Point/White",114,64,56.14
+"White/Cream Tabby",59,33,55.93
+Cream/Brown,9,5,55.56
+"Cream Tabby",1305,724,55.48
+"White/Brown Tabby",728,403,55.36
+"Blue Cream",89,49,55.06
+"Chocolate Point",92,50,54.35
+White/Cream,37,20,54.05
+"Brown Tabby/White",5465,2951,54.00
+Calico,2987,1609,53.87
+Blue/White,1782,959,53.82
+"Blue Tabby",2814,1511,53.70
+Silver,17,9,52.94
+White/Black,1171,610,52.09
+"Blue Point",112,58,51.79
+Black/White,6242,3217,51.54
+Tortie,3187,1637,51.36
+"Brown Tabby",10700,5490,51.31
+Blue,2566,1308,50.97
+White/Blue,425,216,50.82
+"Calico Point",69,35,50.72
+"Seal Point",598,302,50.50
+"Orange Tabby",5149,2596,50.42
+"Orange/Orange Tabby",2,1,50.00
+Chocolate,26,13,50.00
+Fawn,2,1,50.00
+"Tortie/Black Smoke",2,1,50.00
+"Blue Smoke/White",4,2,50.00
+"Brown Tabby/Brown",10,5,50.00
+Tortie/Orange,6,3,50.00
+Torbie/Gray,4,2,50.00
+"Brown Tabby/Red",2,1,50.00
+"Flame Point/White",10,5,50.00
+Tortie/Brown,2,1,50.00
+"Chocolate/Seal Point",2,1,50.00
+"Gray Tabby/Brown",4,2,50.00
+"Brown Tabby/Gray",12,6,50.00
+Calico/Brown,4,2,50.00
+"Black/Brown Tabby",4,2,50.00
+"Brown Merle",2,1,50.00
+"Blue Point/Cream",2,1,50.00
+"Blue Tabby/Blue Cream",4,2,50.00
+Tricolor/Orange,2,1,50.00
+"Lynx Point/Tan",2,1,50.00
+"Blue Cream/Blue Tabby",2,1,50.00
+"Lilac Point/Gray",2,1,50.00
+"Calico/Orange Tabby",2,1,50.00
+"Tortie Point/Lynx Point",2,1,50.00
+"Silver Lynx Point/Gray",2,1,50.00
+"Seal Point/Cream",2,1,50.00
+Black,8989,4412,49.08
+"Lilac Point",184,87,47.28
+"Brown Tiger",17,8,47.06
+"Silver Tabby",142,66,46.48
+"White/Gray Tabby",41,19,46.34
+"Black Tabby/White",96,44,45.83
+Calico/Orange,9,4,44.44
+"Brown Tiger/White",9,4,44.44
+White/Orange,122,54,44.26
+Brown/Black,23,10,43.48
+"Silver Lynx Point",30,13,43.33
+White/Brown,70,30,42.86
+White/White,14,6,42.86
+White/Tan,26,11,42.31
+Black/Black,107,44,41.12
+"Lilac Point/White",22,9,40.91
+Buff/White,10,4,40.00
+Tortie/Blue,5,2,40.00
+"Orange Tabby/Orange Tabby",5,2,40.00
+Gray/Tortie,5,2,40.00
+"Gray Tabby/White",228,90,39.47
+Tortie/Black,36,14,38.89
+Cream/White,50,19,38.00
+White,649,237,36.52
+White/Gray,178,64,35.96
+"Black Tabby",279,99,35.48
+Yellow/Orange,3,1,33.33
+"Blue Cream/Tortie",3,1,33.33
+"Lynx Point/Cream",3,1,33.33
+Tan/White,3,1,33.33
+"Orange Tabby/Brown",6,2,33.33
+"Torbie/Blue Tabby",3,1,33.33
+Calico/Tricolor,6,2,33.33
+"Torbie/Brown Tabby",6,2,33.33
+"Brown Tabby/Brown Tabby",6,2,33.33
+"White/Lilac Point",3,1,33.33
+"Brown Tabby/Orange Tabby",3,1,33.33
+"Gray/Gray Tabby",3,1,33.33
+White/Red,3,1,33.33
+Cream/Orange,3,1,33.33
+"White/Lynx Point",6,2,33.33
+Calico/Black,19,6,31.58
+Black/Brown,13,4,30.77
+Brown/White,40,12,30.00
+"Gray Tabby",482,136,28.22
+Orange/White,224,63,28.13
+Brown,48,13,27.08
+Cream,111,30,27.03
+Tricolor,4,1,25.00
+White/Buff,4,1,25.00
+"Cream/Seal Point",4,1,25.00
+Orange,226,55,24.34
+Black/Gray,17,4,23.53
+"Brown Tabby/Black",99,23,23.23
+"Gray Tabby/Black",31,7,22.58
+Gray/White,166,33,19.88
+Gray,197,33,16.75
+Buff,30,5,16.67
+"Blue Cream/White",6,1,16.67
+Gray/Gray,13,2,15.38
+Tan,7,1,14.29
+Calico/Calico,7,1,14.29
+Black/Orange,10,1,10.00
+Gray/Black,18,1,5.56
+"Seal Point/Brown",3,0,0.00
+Tan/Brown,4,0,0.00
+"Lilac Point/Cream",2,0,0.00
+Gray/Orange,1,0,0.00
+Brown/Gray,3,0,0.00
+White/Tortie,2,0,0.00
+Apricot/White,1,0,0.00
+White/Yellow,2,0,0.00
+Black/Chocolate,3,0,0.00
+"Seal Point/Buff",1,0,0.00
+Tricolor/Calico,1,0,0.00
+Blue/Brown,1,0,0.00
+Brown/Brown,1,0,0.00
+Red,2,0,0.00
+Gray/Brown,3,0,0.00
+Fawn/White,1,0,0.00
+"Cream Tiger",1,0,0.00
+"Red/Orange Tabby",1,0,0.00
+"Brown Tabby/Gray Tabby",2,0,0.00
+"Cream/Brown Tabby",1,0,0.00
+"Brown/Brown Tabby",3,0,0.00
+Tricolor/White,2,0,0.00
+"Black Tabby/Brown",3,0,0.00
+Blue/Gray,2,0,0.00
+"Black Tabby/Gray",3,0,0.00
+Tortie/Tan,1,0,0.00
+Torbie/Brown,5,0,0.00
+"Tortie/Blue Merle",1,0,0.00
+Black/Yellow,1,0,0.00
+"Blue Tabby/Tortie",1,0,0.00
+"Torbie/Silver Tabby",2,0,0.00
+"Blue Tiger/Black",1,0,0.00
+"Brown/Brown Brindle",1,0,0.00
+"Brown Tiger/Black",1,0,0.00
+"Black/Black Tabby",3,0,0.00
+Torbie/Blue,1,0,0.00
+"Black Tiger/White",2,0,0.00
+Silver/Gray,1,0,0.00
+"Brown Tabby/Tan",2,0,0.00
+Black/Tortie,3,0,0.00
+White/Apricot,1,0,0.00
+"Blue Tabby/Brown Tabby",2,0,0.00
+Green,1,0,0.00
+"Calico/Gray Tabby",2,0,0.00
+"Black/Gray Tabby",4,0,0.00
+"Blue Tiger",1,0,0.00
+Orange/Tricolor,1,0,0.00
+"Silver/Gray Tabby",1,0,0.00
+Brown/Orange,1,0,0.00
+"Black Brindle",2,0,0.00
+"Brown Merle/Brown Tabby",1,0,0.00
+Brown/Buff,1,0,0.00
+"Chocolate/Brown Tabby",3,0,0.00
+"Black Smoke/Brown Tabby",1,0,0.00
+"Lynx Point/Brown Tabby",1,0,0.00
+Yellow,1,0,0.00
+"Brown Brindle",2,0,0.00
+Red/White,1,0,0.00
+"Black Smoke/Black Tiger",1,0,0.00
+"Yellow/Orange Tabby",2,0,0.00
+"Seal Point/Gray",1,0,0.00
+"Orange Tabby/Black",1,0,0.00
+"Lynx Point/Gray Tabby",1,0,0.00
+Black/Blue,2,0,0.00
+Agouti/Cream,1,0,0.00
+"Orange Tabby/Tortie Point",1,0,0.00
+Black/Tricolor,1,0,0.00
+"Cream Tabby/Orange",1,0,0.00
+"Flame Point/Cream",3,0,0.00
+"Black Tabby/Orange",1,0,0.00
+Sable/White,1,0,0.00
+Tortie/Calico,2,0,0.00
+"Black Tabby/Black",1,0,0.00
+"Orange Tabby/Apricot",1,0,0.00
+"White/Chocolate Point",3,0,0.00
+Torbie/Calico,1,0,0.00
+Blue/Cream,2,0,0.00
+"Brown Tabby/Black Tabby",1,0,0.00
+"Calico Point/Lynx Point",1,0,0.00
+Gray/Blue,1,0,0.00
+"Blue Tabby/Buff",1,0,0.00
+"Calico/Blue Tabby",2,0,0.00
+"Gray Tabby/Brown Tabby",1,0,0.00
+"Brown Tabby/Blue",1,0,0.00
+"Blue Tabby/Orange",1,0,0.00
+Tan/Black,1,0,0.00
+Gray/Tan,1,0,0.00
+"Tan/Cream Tabby",1,0,0.00
+"Black Tabby/Gray Tabby",1,0,0.00
+"Brown/Black Tabby",1,0,0.00
+Pink,2,0,0.00
+"Blue Cream/Buff",1,0,0.00
+"Brown Tabby/Lynx Point",1,0,0.00
+"Black/Silver Tabby",1,0,0.00
+"Tortie Point/Cream",1,0,0.00
+"Black/Seal Point",1,0,0.00
+"Blue Point/Lynx Point",1,0,0.00
+"Silver Lynx Point/Cream",2,0,0.00
+"Gray Tabby/Gray",2,0,0.00
+Yellow/Black,1,0,0.00
+Cream/Black,1,0,0.00
+Cream/Tan,1,0,0.00
+Silver/White,1,0,0.00
+Brown/Cream,1,0,0.00
+Cream/Gray,2,0,0.00
+"Calico Point/Gray",2,0,0.00
+"Tan/Chocolate Point",1,0,0.00
+Orange/Cream,1,0,0.00
