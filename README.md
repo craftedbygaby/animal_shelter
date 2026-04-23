@@ -128,7 +128,8 @@ animal_shelter/
 │   ├── db_creation_SQL.sql
 │   └── db_population.sql
 │
-├── Animal Shelter Heroes.png
+├── 04. Visualizations/
+│
 ├── ERD_db.png
 ├── shelter_presentation.pptx
 ├── .gitignore
