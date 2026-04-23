@@ -1,0 +1,6 @@
+pet_type,total_records,adopted_count,adoption_rate_pct
+Livestock,34,17,50.00
+Bird,876,323,36.87
+Other,8950,1002,11.20
+Cat,69386,35781,51.57
+Dog,94474,47475,50.25

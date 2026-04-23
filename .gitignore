@@ -1,0 +1,19 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# SQL / MySQL
+*.sql.bak
+
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+env/
+venv/
