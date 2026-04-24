@@ -33,7 +33,7 @@ This project was developed as part of the **IronHack Data Analytics Bootcamp** a
 ### Q1 — Are black cats adopted less than cats of other colours?
 
 - **Hypothesis:** Black cats will have a lower adoption rate compared to cats of other coat colours, due to well-documented adoption bias against black animals in shelters.
-- **Finding:** Black cats have an adoption rate of **42.87%**, compared to **52.65%** for all other cats combined.
+- **Finding:** Black cats have an adoption rate of **49.70%**, compared to **52.20%** for all other cats combined.
 
 ### Q2 — Which animals are being adopted the least?
 
